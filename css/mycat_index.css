@@ -3,3 +3,44 @@
     font-size: 2.5rem;
     margin-left: 5%;
 }
+
+/*阿里 icon*/
+.icon {
+    width: 1em; height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
+
+.feature_title_div{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.feature_title_span{
+    font-size: 4rem;
+    color: cornflowerblue;
+}
+
+.feature_row_div{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+
+.feature_div{
+    display: flex;
+    flex-direction: column;
+}
+
+.feature_icon{
+    font-size: 10rem;
+    color: cornflowerblue;
+}
+
+.feature_content_span{
+    font-weight: bolder;
+    margin-top: 1rem;
+    text-align: center;
+}
