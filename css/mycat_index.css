@@ -12,7 +12,7 @@
     overflow: hidden;
 }
 
-.feature_title_div{
+.flex_center_div{
     margin-top: 2%;
     display: flex;
     justify-content: center;
